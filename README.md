@@ -1,1 +1,1 @@
-# Repeated-String-ALGOrithm
+# Repeated-String-ALGOrithm This code efficiently solves the Repeated String problem by calculating how many times the character `'a'` appears in the first `n` characters of an infinitely repeated string `s`. It counts `'a'`s in the original string, multiplies by the number of full repetitions within `n`, and adds the `'a'`s in the remaining partial repetition.
